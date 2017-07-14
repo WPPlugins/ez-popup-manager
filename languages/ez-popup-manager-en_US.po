@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EZ popup manager\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.5.7\n"
+
+# simple-popup-manager
+msgid "Titre page doption"
+msgstr "EZ Popup Manager"
+
+msgid "page doption dans menu"
+msgstr "Popup parameters"
+
+msgid "Description du plugin"
+msgstr ""
+"EZ Popup Manager allows you to manage a popup message. Visitors can close it "
+"by simply click outside it (dark area). You can specify how often the "
+"message should be display : each time a visitor hit the front page (or every "
+"page), one time by session, on time each x days."
+
+msgid "Activer la popup : "
+msgstr "Activate the popup : "
+
+msgid "Only Show on Frontpage : "
+msgstr "Only Show on Frontpage : "
+
+msgid "Debug mode : "
+msgstr "Debug mode : "
+
+msgid "No cookie, popup only visible for logged in admin on frontpage"
+msgstr "No cookie, popup only visible for logged in admin on frontpage"
+
+msgid "Bouton de fermeture : "
+msgstr "Add a close popup button icon : "
+
+msgid "Duree du cookie en jour(s) : "
+msgstr "Cookie lifetime in day(s) : "
+
+msgid "Valeur possible cookie"
+msgstr ""
+"Possible value : empty (one display per session), 0 (no cookie, display "
+"every times user visits the frontpage ), 1 to 365 (display the message one "
+"time every x days)"
+
+msgid "Largeur en pixels : "
+msgstr "Width in pixels : "
+
+msgid "Hauteur en pixels : "
+msgstr "Height in pixels : "
+
+msgid "Opacite : "
+msgstr "Opacity (of the background) :"
+
+msgid "Contenu de la popup : "
+msgstr "Popup content : "
+
+msgid "Desactiver la fermeture  : "
+msgstr "Disabled clickable background :"

@@ -1,0 +1,58 @@
+#ez-popup-manager
+
+#:index.php index.php
+msgid "Titre page doption"
+msgstr ""
+
+#:index.php
+msgid "page doption dans menu"
+msgstr ""
+
+#:index.php
+msgid "Description du plugin"
+msgstr ""
+
+#:index.php
+msgid "Activer la popup : "
+msgstr ""
+
+#:index.php
+msgid "Debug mode : "
+msgstr ""
+
+#:index.php
+msgid "No cookie, popup only visible for logged in admin on frontpage"
+msgstr ""
+
+#:index.php
+msgid "Bouton de fermeture : "
+msgstr ""
+
+#:index.php
+msgid "Duree du cookie en jour(s) : "
+msgstr ""
+
+#:index.php
+msgid "Valeur possible cookie"
+msgstr ""
+
+#:index.php index.php
+msgid "Largeur en pixels : "
+msgstr ""
+
+#:index.php
+msgid "Hauteur en pixels : "
+msgstr ""
+
+#:index.php
+msgid "Opacite : "
+msgstr ""
+
+#:index.php
+msgid "Contenu de la popup : "
+msgstr ""
+
+#:index.php
+msgid "Desactiver la fermeture  : "
+msgstr ""
+

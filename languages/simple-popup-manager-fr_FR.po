@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple popup manager\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.5.4\n"
+
+# simple-popup-manager
+msgid "Titre page doption"
+msgstr "Simple Popup Manager"
+
+msgid "page doption dans menu"
+msgstr "Paramètres Popup"
+
+msgid "Description du plugin"
+msgstr "Simple Popup Manager vous permet d'afficher très facilement un message en page d'accueil de votre site. Le visiteur peut le refermer simplement en cliquant en dehors (zone sombre). Afin de ne pas être trop intrusif vous pouvez limiter l'affichage de la Popup à l'aide d'un cookie en spécifiant un nombre de jours pendant lequel le visiteur ne verra plus la Popup."
+
+msgid "Activer la popup : "
+msgstr "Activer la popup : "
+
+msgid "Debug mode : "
+msgstr "Mode \"debug\""
+
+msgid "No cookie, popup only visible for logged in admin on frontpage"
+msgstr "Pas de prise en compte du cookie. Popup visible uniquement pour les administrateurs"
+
+msgid "Bouton de fermeture : "
+msgstr "Afficher une icône de fermeture :"
+
+msgid "Duree du cookie en jour(s) : "
+msgstr "Durée du cookie en jour(s) : "
+
+msgid "Valeur possible cookie"
+msgstr "Valeur possible : vide (cookie de session), 0 (pas de cookie), 1 à 365 (cookie de X jours)"
+
+msgid "Largeur en pixels : "
+msgstr "Largeur en pixels : "
+
+msgid "Hauteur en pixels : "
+msgstr "Hauteur en pixels : "
+
+msgid "Opacite : "
+msgstr "Opacité :"
+
+msgid "Contenu de la popup : "
+msgstr "Contenu de la popup : "
+
+msgid "Desactiver la fermeture  : "
+msgstr "Désactiver la fermeture de la popup lors d'un click en dehors :"
+
